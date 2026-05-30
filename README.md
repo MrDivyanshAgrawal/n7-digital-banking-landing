@@ -1,7 +1,5 @@
 # N7 — Digital Banking Landing Page
 
-**Author:** Divyansh Agrawal
-
 A responsive, pixel-accurate frontend implementation of the **N7 fintech landing page** design assignment. Built with Next.js 14, Tailwind CSS, and Framer Motion.
 
 ---
@@ -227,11 +225,6 @@ git commit -m "Describe your changes"
 git push
 ```
 
-### Authentication
-
-- **HTTPS:** Use a [GitHub Personal Access Token](https://github.com/settings/tokens) as your password.
-- **SSH:** Use `git@github.com:USERNAME/REPO.git` as the remote URL.
-
 ---
 
 ## Browser Support
@@ -243,6 +236,12 @@ git push
 
 ---
 
+## Author
+
+# Divyansh Agrawal
+
+---
+
 ## License
 
-This project was created as a frontend design assignment submission by **Divyansh Agrawal**.
+This project was created as a frontend design assignment submission.
