@@ -6,9 +6,8 @@ A responsive, pixel-accurate frontend implementation of the **N7 fintech landing
 
 ## Live Demo
 
-> Replace with your deployed URL after publishing to Vercel.
 
-**Demo:** `https://your-project.vercel.app`
+**Live:** [N7 — Digital Banking Landing Page](https://n7-digital-banking-landing.vercel.app/)
 
 ---
 
