@@ -236,9 +236,11 @@ git push
 
 ---
 
-## Author
+## 👨‍💻 Developer
 
-# Divyansh Agrawal
+**Divyansh Agrawal**
+- GitHub: [@MrDivyanshAgrawal](https://github.com/MrDivyanshAgrawal)
+- LinkedIn: [Divyansh Agrawal](https://www.linkedin.com/in/divyansh-agrawal-673420257)
 
 ---
 
